@@ -35,4 +35,6 @@
       Most famous restaurant chains in Bengaluru
 
 
+##### Location Wise Count for Resturants 
 
+![alt text](Location.png.jpg)
