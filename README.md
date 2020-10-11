@@ -54,7 +54,7 @@
      
      
 
-<pre> <b> Location Wise Count for Resturants                        Location wise rating  </b></pre> 
+<pre> <b> Location Wise Count for Resturants    </b></pre> 
 
 
 <img src= 'Image/Location.png' width='400'>                         <img src= 'Image/LocationRating.png'  width='500' height='400' > 
